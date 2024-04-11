@@ -1,0 +1,10 @@
+div {
+    height: 50px;
+    width: 2000px;
+    background-color: white;
+}
+span {
+    height: 1px;
+    width: 2000px;
+    background-color: white;
+}
